@@ -42,7 +42,7 @@ python app.py
 
 
 
-## 🎥 功能链接
+## 🎥 功能演示讲解链接
 
 https://mp.weixin.qq.com/s/LN1nph94-HidrkcMk0NcJQ
 
