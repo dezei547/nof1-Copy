@@ -1,9 +1,9 @@
 # Nof1-Copy
 
-复刻
+复刻nof1在欧易模拟盘使用deepseek实时交易
 
 ## 功能特性
-实时检测某n只股票，给出投资建议，根据技术指标，deepseek给出投资建议
+完全与爆火的nof1一致，将赛场转移至模拟盘，方便更多同志测试
 
 ## 环境要求
 
@@ -34,21 +34,17 @@ python app.py
 
 
 ###5. 也可以之间下载运行下面exe文件运行使用
-通过网盘分享的文件：DeepSeekStockTrading.exe
-链接: https://pan.baidu.com/s/1kUATtPYRij7mFNvIKXvBpQ?pwd=zt7r 提取码: zt7r 
+通过网盘分享的文件：LLM_OK.exe
+链接: https://pan.baidu.com/s/1hkCqcpTPalzu5gYe4lwb5A?pwd=vgd4 提取码: vgd4 
 --来自百度网盘超级会员v5的分享
 
 ```
 
-## 界面预览
-
-<img width="1196" height="939" alt="image" src="https://github.com/user-attachments/assets/69026ebd-53a5-4a60-8d3a-204a5fbfcf08" />
-
-## 🎥 功能演示
 
 
+## 🎥 功能链接
 
-https://github.com/user-attachments/assets/dd528847-7351-4f9a-8eb4-cb336a0f2e32
+https://mp.weixin.qq.com/s/LN1nph94-HidrkcMk0NcJQ
 
 
 
